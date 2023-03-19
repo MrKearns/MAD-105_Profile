@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MAD-105_Profile</string>
+    <string name="txtName">Jonathan</string>
+    <string name="textButtonProfile">View Profile</string>
+    <string name="txxProfileInfromation">Hello there! I\'m Jonathan.\n\nI hope you enjoy photos of people looking forlornly at a cell phone.\n\nAnyway... I\'m a returning student at MCC. I\'m taking, mostly, programming classes. I hope to pick up some new skills to use... IN LIFE! I hope all is well with you, dear reader.</string>
+</resources>
